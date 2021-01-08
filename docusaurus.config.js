@@ -23,8 +23,8 @@ module.exports = {
           position: 'left',
         },
         {
-          to: 'features',
-          label: 'Features',
+          to: 'blog',
+          label: 'Blog',
           position: 'left',
         },
       ],
@@ -62,8 +62,8 @@ module.exports = {
           title: 'More',
           items: [
             {
-              label: 'Features',
-              to: 'features',
+              label: 'Blog',
+              to: 'blog',
             },
             {
               label: 'GitHub',
@@ -85,11 +85,11 @@ module.exports = {
           editUrl:
             'https://github.com/iperson/tn_docs/edit/master/website/',
         },
-        features: {
+        blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/iperson/tn_docs/edit/master/website/features/',
+            'https://github.com/iperson/tn_docs/edit/master/website/blog/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
