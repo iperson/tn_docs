@@ -1,6 +1,6 @@
 module.exports = {
   someSidebar: {
-    Docs: ['quick_tips', 'getting_started', 'io_nodes', 'sim_nodes', 'other_nodes', 'additional_tools',],
-    Features: ['mdx'],
+    Docs: ['quick_tips', 'getting_started', 'io_nodes', 'additional_tools', 'nodes_list'],
+    // Features: ['release_1_0_0'],
   },
 };

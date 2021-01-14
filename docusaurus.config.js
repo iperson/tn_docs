@@ -19,12 +19,12 @@ module.exports = {
         {
           to: 'docs/',
           activeBasePath: 'docs',
-          label: 'Docs / Features',
+          label: 'Docs',
           position: 'left',
         },
         {
           to: 'blog',
-          label: 'Blog',
+          label: 'Gallery',
           position: 'left',
         },
         {
@@ -37,6 +37,11 @@ module.exports = {
           label: 'Twitter',
           position: 'left',
         },
+        {
+          href: 'https://www.youtube.com/channel/UCKAek-EiaHKlQRrn55n66Lg',
+          label: 'YouTube',
+          position: 'left',
+        },
       ],
     },
     footer: {
@@ -46,12 +51,12 @@ module.exports = {
           title: 'Docs',
           items: [
             {
-              label: 'Style Guide',
-              to: 'docs/',
+              label: 'Quick Tips',
+              to: 'docs/quick_tips/',
             },
             {
-              label: 'Second Doc',
-              to: 'docs/doc2/',
+              label: 'Getting Started',
+              to: 'docs/getting_started/',
             },
           ],
         },
@@ -64,20 +69,7 @@ module.exports = {
             },
             {
               label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
-            },
-          ],
-        },
-        {
-          title: 'More',
-          items: [
-            {
-              label: 'Blog',
-              to: 'blog',
-            },
-            {
-              label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              href: 'https://discord.gg/qQ2cYHQ',
             },
           ],
         },
@@ -96,7 +88,7 @@ module.exports = {
             'https://github.com/iperson/tn_docs/edit/master/website/',
         },
         blog: {
-          showReadingTime: true,
+          showReadingTime: false,
           // Please change this to your repo.
           editUrl:
             'https://github.com/iperson/tn_docs/edit/master/website/blog/',

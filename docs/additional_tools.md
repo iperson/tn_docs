@@ -1,9 +1,7 @@
 ---
 id: additional_tools
-title: Extra Tools
+title: Bake Texture Tool
 ---
-
-### Bake Texture Tool
 
 This tool helps you quickly bake image texture from the Shader Editor.
 

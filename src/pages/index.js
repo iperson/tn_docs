@@ -9,7 +9,7 @@ import styles from './styles.module.css';
 const features = [
   {
     title: 'Fast GPU Erosion',
-    imageUrl: 'img/undraw_docusaurus_mountain.svg',
+    imageUrl: 'img/terrain_erosion.jpg',
     description: (
       <>
         Terrain Nodes uses the power of your NVIDIA GPU to quickly perform complex 
@@ -19,7 +19,7 @@ const features = [
   },
   {
     title: 'Flexible Node UI',
-    imageUrl: 'img/undraw_docusaurus_tree.svg',
+    imageUrl: 'img/node_system.png',
     description: (
       <>
         Node interface allows you to setup and reuse complex terrain generation processes.
@@ -27,11 +27,12 @@ const features = [
     ),
   },
   {
-    title: 'Do Everything Inside Blender',
-    imageUrl: 'img/undraw_docusaurus_react.svg',
+    title: 'Live Preview',
+    imageUrl: 'img/hydro_erosion.gif',
     description: (
       <>
-        Quickly design your scene right inside Blender. Preview simulation as it happens.
+        Switch between different layers to see what is happening during erosion.
+
       </>
     ),
   },
