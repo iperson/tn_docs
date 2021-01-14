@@ -8,32 +8,30 @@ import styles from './styles.module.css';
 
 const features = [
   {
-    title: 'Easy to Use',
+    title: 'Fast GPU Erosion',
     imageUrl: 'img/undraw_docusaurus_mountain.svg',
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Terrain Nodes uses the power of your NVIDIA GPU to quickly perform complex 
+        erosion computations (compute capibility 3.5 and above is required).
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Flexible Node UI',
     imageUrl: 'img/undraw_docusaurus_tree.svg',
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Node interface allows you to setup and reuse complex terrain generation processes.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Do Everything Inside Blender',
     imageUrl: 'img/undraw_docusaurus_react.svg',
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Quickly design your scene right inside Blender. Preview simulation as it happens.
       </>
     ),
   },

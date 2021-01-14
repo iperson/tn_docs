@@ -19,12 +19,22 @@ module.exports = {
         {
           to: 'docs/',
           activeBasePath: 'docs',
-          label: 'Docs',
+          label: 'Docs / Features',
           position: 'left',
         },
         {
           to: 'blog',
           label: 'Blog',
+          position: 'left',
+        },
+        {
+          href: 'https://discord.gg/qQ2cYHQ',
+          label: 'Discord',
+          position: 'left',
+        },
+        {
+          href: 'https://twitter.com/search?q=%23TerrainNodes&src=hashtag_click',
+          label: 'Twitter',
           position: 'left',
         },
       ],
