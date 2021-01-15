@@ -1,6 +1,6 @@
 module.exports = {
   title: 'Terrain Nodes',
-  tagline: 'GPU Accelerated Addon for Blender 3D',
+  tagline: 'GPU Accelerated Add-on for Blender 3D',
   url: 'https://iperson.github.io',
   baseUrl: '/tn_docs/',
   onBrokenLinks: 'throw',
