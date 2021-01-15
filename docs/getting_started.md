@@ -5,6 +5,8 @@ title: Getting Started
 
 ### Installation
 
+- Make sure to have Blender 2.91 or above installed, you can get it [here](www.blender.org)
+
 - Download Terrain Nodes add-on zip file ( **DO NOT UNZIP** )
 
 - Open Blender and go to **Edit** > **Preferences** > **Install** navigate to where you have downloaded Terrain Nodes 
