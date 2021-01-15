@@ -70,8 +70,9 @@ function Home() {
                 'button button--outline button--secondary button--lg',
                 styles.getStarted,
               )}
-              to={useBaseUrl('docs/')}>
-              Get Started
+              // to={useBaseUrl('docs/')}
+              to={('https://www.youtube.com/watch?v=bOu9OoP-V5k')}>
+              Features Demo
             </Link>
           </div>
         </div>

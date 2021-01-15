@@ -33,7 +33,7 @@ module.exports = {
           position: 'left',
         },
         {
-          href: 'https://twitter.com/search?q=%23TerrainNodes&src=hashtag_click',
+          href: 'https://twitter.com/ValeraBarashkov',
           label: 'Twitter',
           position: 'left',
         },
@@ -64,13 +64,17 @@ module.exports = {
           title: 'Community',
           items: [
             {
-              label: 'Twitter',
-              href: 'https://twitter.com/hashtag/TerrainNodes?src=hashtag_click',
-            },
-            {
               label: 'Discord',
               href: 'https://discord.gg/qQ2cYHQ',
             },
+            {
+              label: 'Twitter',
+              href: 'https://twitter.com/ValeraBarashkov',
+            },
+            {
+              label: 'YouTube',
+              href: 'https://www.youtube.com/channel/UCKAek-EiaHKlQRrn55n66Lg',
+            }
           ],
         },
       ],

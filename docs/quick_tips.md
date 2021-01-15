@@ -5,6 +5,9 @@ sidebar_label: Quick Notes
 slug: /
 ---
 
+#### Apologies, I am still working on the documentation and tutorials
+
+- [YouTube Tutorials](io_nodes.md#image-output-node)
 - All nodes can be connected. Meaning no node has any particular data type.
 - There is one small note to above. Output Nodes when connected to the Erosion Node,
 will give more options for which layers to convert to images. This is done for convinience,
