@@ -35,3 +35,7 @@ Next create new Node Group (or select an existing one you saved).
 
 ![img](../static/img/set_fake_user_important.gif)
 
+:::caution
+
+#### Do not change names (labels) of nodes!
+

@@ -6,8 +6,10 @@ title: Quick Notes
 #### Apologies, I am still working on the documentation and tutorials
 
 - Checkout [YouTube Tutorials](https://www.youtube.com/watch?v=8aD25sGWOyU&list=PLHo6jWZwwzK94EFpfp8fWfslsWRQAXG20)
+- Each setting has a tooltip if you hover over it explaining what it does.
+- Press 'ESC' to terminate erosion / simulation and continue to the next Node.
 - All nodes can be connected. Meaning no node has any particular data type.
-- There is one small note to above. Output Nodes when connected to the Erosion Node,
+- Output Nodes (Image and Vertex) when connected to the Erosion Node,
 will give more options for which layers to convert to images. This is done for convinience,
 so that the user does not have to connect multiple outputs. 
 More on this [here](io_nodes.md#image-output-node).
