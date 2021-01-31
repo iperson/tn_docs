@@ -7,6 +7,8 @@ title: Nodes List
 ### Scale
 ### Clip
 ### Math
+### Grid to Height Map
+### Voronoi Noise (with distortion)
 ### Cell Noise
 ### Fractal Noise
 ### Hetero Terrain Noise
@@ -16,7 +18,6 @@ title: Nodes List
 ### Ridged Multi Fractal Noise
 ### Turbulence Noise
 ### Variable Lacunarity Noise
-### Grid to Height Map
 ### Image Input
 ### Image Output
 ### Vertex Weight and Color Output
