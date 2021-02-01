@@ -16,7 +16,7 @@ automatically, causing the node tree execution to restart from that Image Node.
 ### Grid to Height Map Node
 ![img](../static/img/grid_to_height_node.png)
 
-This node converts grid object (vertex z value) to single channel image data.
+This node converts grid object (vertex z value) to single channel image data. Such as an [ANT Landscape](https://youtu.be/f9OxD3qbSiM?t=36) object.
 
 ### What is a grid object in Terrain Nodes?
 
