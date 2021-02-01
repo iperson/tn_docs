@@ -73,7 +73,7 @@ contains the following layers in this exact order:
 - Flow Map
 - This layer is 1.0 by default as it is currently empty.
 
-You can switch between indidual image output and image channels:
+You can switch between individual images and packed image channels as output:
 
 ![img](../static/img/save_layers_as.gif)
 
