@@ -28,19 +28,29 @@ module.exports = {
           position: 'left',
         },
         {
-          href: 'https://discord.gg/qQ2cYHQ',
-          label: 'Discord',
+          href: 'https://www.youtube.com/watch?v=bOu9OoP-V5k',
+          label: 'Features Demo',
           position: 'left',
         },
         {
-          href: 'https://twitter.com/ValeraBarashkov',
-          label: 'Twitter',
-          position: 'left',
+          href: 'https://discord.gg/qQ2cYHQ',
+          label: 'Discord',
+          position: 'right',
         },
         {
           href: 'https://www.youtube.com/channel/UCKAek-EiaHKlQRrn55n66Lg',
           label: 'YouTube',
-          position: 'left',
+          position: 'right',
+        },
+        {
+          href: 'https://blenderartists.org/t/terrain-nodes-add-on-for-nvidia-gpus/1282105',
+          label: 'Blender Artists',
+          position: 'right',
+        },
+        {
+          href: 'https://twitter.com/ValeraBarashkov',
+          label: 'Twitter',
+          position: 'right',
         },
       ],
     },
@@ -74,6 +84,10 @@ module.exports = {
             {
               label: 'YouTube',
               href: 'https://www.youtube.com/channel/UCKAek-EiaHKlQRrn55n66Lg',
+            },
+            {
+            href: 'https://blenderartists.org/t/terrain-nodes-add-on-for-nvidia-gpus/1282105',
+            label: 'Blender Artists Forum',
             }
           ],
         },

@@ -71,8 +71,8 @@ function Home() {
                 styles.getStarted,
               )}
               // to={useBaseUrl('docs/')}
-              to={('https://www.youtube.com/watch?v=bOu9OoP-V5k')}>
-              Features Demo
+              to={('https://gum.co/yOnrv')}>
+              Get it on Gumroad
             </Link>
           </div>
         </div>
