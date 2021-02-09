@@ -16,3 +16,4 @@ More on this [here](io_nodes.md#image-output-node).
 - Make sure to select 'Fake User' (looks like a Shield Icon) to save the node tree, otherwise
 it might get lost. 
 [More info here](getting_started.md#make-sure-to-select-fake-user-otherwise-your-node-setup-will-be-lost)
+- Do not chage Node names and labels, this can possibly break the script.
