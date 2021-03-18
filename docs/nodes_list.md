@@ -20,4 +20,5 @@ title: Nodes List
 ### Variable Lacunarity Noise
 ### Image Input
 ### Image Output
+### Terrain / Landscape Output
 ### Vertex Weight and Color Output
