@@ -47,11 +47,11 @@ const features = [
     ),
   },
   {
-    title: 'Dissuion Reaction',
+    title: 'Diffusion Reaction',
     imageUrl: 'img/diffusion.gif',
     description: (
       <>
-        Erode sculpted terrains and sculpt again.
+        Experimental Diffusion Reaction Node.
 
       </>
     ),
@@ -61,7 +61,7 @@ const features = [
     imageUrl: 'img/res_demo.gif',
     description: (
       <>
-        Erode sculpted terrains and sculpt again.
+        Resolution is limited by GPU ram. GeForce GTX 1070 8GB can handle 9000x9000 resoultion.
 
       </>
     ),
