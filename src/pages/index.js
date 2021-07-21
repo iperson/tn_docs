@@ -36,6 +36,36 @@ const features = [
       </>
     ),
   },
+  {
+    title: 'Sculpt Erode Repeat',
+    imageUrl: 'img/sculpt_erode.gif',
+    description: (
+      <>
+        Erode sculpted terrains and sculpt again.
+
+      </>
+    ),
+  },
+  {
+    title: 'Dissuion Reaction',
+    imageUrl: 'img/diffusion.gif',
+    description: (
+      <>
+        Erode sculpted terrains and sculpt again.
+
+      </>
+    ),
+  },
+  {
+    title: 'Huge Resolution',
+    imageUrl: 'img/res_demo.gif',
+    description: (
+      <>
+        Erode sculpted terrains and sculpt again.
+
+      </>
+    ),
+  },
 ];
 
 function Feature({imageUrl, title, description}) {
