@@ -2,7 +2,7 @@ module.exports = {
   title: 'Terrain Nodes',
   tagline: 'GPU Accelerated Add-on for Blender 3D',
   url: 'https://iperson.github.io',
-  baseUrl: '/',
+  baseUrl: '/tn_docs/', // removing this break github page, but makes local preview work
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
