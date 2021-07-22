@@ -4,10 +4,16 @@ title: Nodes List
 ---
 
 ### Erosion Filter
+### Diffusion Reaction (experimental)
+### Terrace Filter
 ### Scale
 ### Clip
 ### Math
+### Image Input
 ### Grid to Height Map
+### Image Output
+### Terrain Output
+### Vertex Weight / Color Output
 ### Voronoi Noise (with distortion)
 ### Cell Noise
 ### Fractal Noise
@@ -18,7 +24,3 @@ title: Nodes List
 ### Ridged Multi Fractal Noise
 ### Turbulence Noise
 ### Variable Lacunarity Noise
-### Image Input
-### Image Output
-### Terrain / Landscape Output
-### Vertex Weight and Color Output
